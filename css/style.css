@@ -25,6 +25,9 @@ img[src*="logo.svg"] {
 #data {
     font-size: 10px;
 }
+.didascalia {
+    font-size: 11px;
+}
 
 footer {
     color: grey;
