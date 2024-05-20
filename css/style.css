@@ -3,6 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+header {
+    height: 100px;
+    width: 100%;
+}
+img[src*="pattern"] {
+    height: 100%;
+    width: 20%;
+    background-color: lightskyblue;
+    background-repeat: repeat;
+}
 footer {
     color: grey;
 }
