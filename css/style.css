@@ -43,6 +43,7 @@ p {
 }
 table {
     width: 100%;
+    padding: 10px 0;
 }
 tr {
     height: 40px;
