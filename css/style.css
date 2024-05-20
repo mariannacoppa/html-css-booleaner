@@ -28,6 +28,9 @@ img[src*="logo.svg"] {
 .didascalia {
     font-size: 11px;
 }
+p {
+    padding: 10px 0;
+}
 .highlight {
     background-color: yellow;
 }
