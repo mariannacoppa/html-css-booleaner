@@ -28,7 +28,9 @@ img[src*="logo.svg"] {
 .didascalia {
     font-size: 11px;
 }
-
+.highlight {
+    background-color: yellow;
+}
 footer {
     color: grey;
 }
