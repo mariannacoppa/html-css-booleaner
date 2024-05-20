@@ -9,12 +9,21 @@ header {
     background-image: url('../img/pattern.png');
     background-color: lightskyblue;
 }
-img[src*="pattern"] {
+img[src*="pattern.png"] {
     height: 100%;
 }
 img[src*="logo.svg"] {
     height: 100%;
     width: 15%;
+}
+.link {
+    text-decoration: none;
+}
+.autore {
+    color: grey;
+}
+#data {
+    font-size: 10px;
 }
 
 footer {
