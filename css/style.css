@@ -57,3 +57,13 @@ td {
 footer {
     color: grey;
 }
+.footer-img {
+    width: 300px;
+    height: 200px;
+}
+#one {
+    background-image: url('../img/monitor.jpg');
+}
+#two {
+    background-image: url('../img/graph.jpg');
+}
