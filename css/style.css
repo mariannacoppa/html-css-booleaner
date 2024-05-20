@@ -54,12 +54,14 @@ td {
 .title {
     height: auto;
 }
-footer {
+.footer-title {
     color: grey;
 }
 .footer-img {
     width: 300px;
     height: 200px;
+    margin-top: 10px;
+    color: white;
 }
 #one {
     background-image: url('../img/monitor.jpg');
